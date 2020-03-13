@@ -1,0 +1,6 @@
+cruvinel
+100000
+elias
+120000
+lucas
+150000
